@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-06/Coding-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/Sumit-06/Coding-Questions/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
