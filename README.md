@@ -25,5 +25,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Sumit-06/Coding-Questions/tree/master/0175-combine-two-tables) |
 | [1068-product-sales-analysis-i](https://github.com/Sumit-06/Coding-Questions/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
