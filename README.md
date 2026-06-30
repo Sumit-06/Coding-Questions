@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sumit-06/Coding-Questions/tree/master/0175-combine-two-tables) |
 | [1068-product-sales-analysis-i](https://github.com/Sumit-06/Coding-Questions/tree/master/1068-product-sales-analysis-i) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Sumit-06/Coding-Questions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
