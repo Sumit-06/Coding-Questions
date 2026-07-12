@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sumit-06/Coding-Questions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumit-06/Coding-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sumit-06/Coding-Questions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Sumit-06/Coding-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sumit-06/Coding-Questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-06/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sumit-06/Coding-Questions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sumit-06/Coding-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sumit-06/Coding-Questions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Sumit-06/Coding-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sumit-06/Coding-Questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-06/Coding-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
@@ -100,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sumit-06/Coding-Questions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Sumit-06/Coding-Questions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
