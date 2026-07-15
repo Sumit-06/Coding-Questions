@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sumit-06/Coding-Questions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Sumit-06/Coding-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sumit-06/Coding-Questions/tree/master/0268-missing-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sumit-06/Coding-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sumit-06/Coding-Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sumit-06/Coding-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sumit-06/Coding-Questions/tree/master/0344-reverse-string) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sumit-06/Coding-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
