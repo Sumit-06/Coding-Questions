@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sumit-06/Coding-Questions/tree/master/0175-combine-two-tables) |
+| [0178-rank-scores](https://github.com/Sumit-06/Coding-Questions/tree/master/0178-rank-scores) |
 | [1068-product-sales-analysis-i](https://github.com/Sumit-06/Coding-Questions/tree/master/1068-product-sales-analysis-i) |
 ## Math
 |  |
